@@ -1,0 +1,86 @@
+export const quotes = [
+  {
+    id: 'q-1',
+    text: 'The soul becomes dyed with the colour of its thoughts.',
+    authorId: 'marcus-aurelius',
+    domain: 'Philosophy',
+  },
+  {
+    id: 'q-2',
+    text: 'He who has a why to live can bear almost any how.',
+    authorId: 'nietzsche',
+    domain: 'Philosophy',
+  },
+  {
+    id: 'q-3',
+    text: 'Imagination is more important than knowledge.',
+    authorId: 'einstein',
+    domain: 'Ideas & Perspectives',
+  },
+  {
+    id: 'q-4',
+    text: 'Arise, awake, and stop not till the goal is reached.',
+    authorId: 'vivekananda',
+    domain: 'Motivation',
+  },
+  {
+    id: 'q-5',
+    text: 'If you shed tears when you miss the sun, you also miss the stars.',
+    authorId: 'tagore',
+    domain: 'Peace & Healing',
+  },
+  {
+    id: 'q-6',
+    text: 'Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.',
+    authorId: 'kalam',
+    domain: 'Goals & Ambitions',
+  },
+  {
+    id: 'q-7',
+    text: 'To love oneself is the beginning of a lifelong romance.',
+    authorId: 'oscar-wilde',
+    domain: 'Love & Relationships',
+  },
+  {
+    id: 'q-8',
+    text: 'The weak can never forgive. Forgiveness is the attribute of the strong.',
+    authorId: 'gandhi',
+    domain: 'Peace & Healing',
+  },
+  {
+    id: 'q-9',
+    text: 'Everyone thinks of changing the world, but no one thinks of changing himself.',
+    authorId: 'tolstoy',
+    domain: 'Self Growth',
+  },
+  {
+    id: 'q-10',
+    text: 'You are not a drop in the ocean. You are the entire ocean in a drop.',
+    authorId: 'rumi',
+    domain: 'Self Growth',
+  },
+  {
+    id: 'q-11',
+    text: 'Let the beauty of what you love be what you do.',
+    authorId: 'rumi',
+    domain: 'Love & Relationships',
+  },
+  {
+    id: 'q-12',
+    text: 'Great things are done by a series of small things brought together.',
+    authorId: 'vivekananda',
+    domain: 'Goals & Ambitions',
+  },
+  {
+    id: 'q-13',
+    text: 'The important thing is not to stop questioning. Curiosity has its own reason for existing.',
+    authorId: 'einstein',
+    domain: 'Ideas & Perspectives',
+  },
+  {
+    id: 'q-14',
+    text: 'Waste no more time arguing about what a good man should be. Be one.',
+    authorId: 'marcus-aurelius',
+    domain: 'Motivation',
+  },
+];
